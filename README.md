@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor de software<br>- Foco em desenvolvimento back-end com Java<br>- Cursando análise e desenvolvimento de sistema</p>
+<p align="left">- Desenvolvedor de software<br>- Foco em desenvolvimento back-end<br>- Cursando análise e desenvolvimento de sistema</p>
 
 ###
 
